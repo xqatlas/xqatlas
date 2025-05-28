@@ -30,6 +30,6 @@ Whether you're working on an F1 chassis or a next-gen jet engine, XQ Atlas ensur
 
 
 - 🪄 **Smart Recommendation System**  
-  - Smart job recommendations based on skills + goals  
+  Smart job recommendations based on skills + goals  
 
 ---
