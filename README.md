@@ -33,12 +33,3 @@ Whether you're working on an F1 chassis or a next-gen jet engine, XQ Atlas ensur
   - Smart job recommendations based on skills + goals  
 
 ---
-
-## ⚙️ Tech Stack
-
-- **Frontend:** React 18 (SSR-ready)  
-- **Backend:** FastAPI (Python)  
-- **AI Stack:** Groq | LangChain | Custom GPT Agents  
-- **Cloud Hosting:** Google Cloud Platform (Cloud Run, Cloud Storage)  
-- **CI/CD:** GitHub Actions + GCP Build Triggers  
-
